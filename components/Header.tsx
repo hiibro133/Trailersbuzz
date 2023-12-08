@@ -27,7 +27,7 @@ function Header() {
     <header className="w-full h-[40px] fixed top-0 shadow-lg  bg-[#03001417] backdrop-blur-md z-50 px-10">{/*{`${isScrolled && 'bg-[#141414]'}`}*/}
       <div className="flex items-center space-x-2 md:space-x-10">
         <Image
-          src="/netflix_logo.svg"
+          src="/netflix_logo.png"
           width={100}
           height={100}
           className="cursor-pointer object-contain"

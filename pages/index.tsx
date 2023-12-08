@@ -47,7 +47,7 @@ const Home = ({
 
       <Head>
         <title>Home - Trailerbuzz</title>
-        <link rel="icon" href="/favicon.tiff" />
+        <link rel="icon" href="/t-logo-copy.png" />
          {/* Open Graph Meta Tags for Sharing */}
         <meta property="og:title" content="TrailerBuzz - Your Ultimate Destination for Movie Trailers" />
         <meta property="og:description" content="Welcome to TrailerBuzz, your go-to source for the latest and most exciting movie trailers! Immerse yourself in the world of cinema and get a sneak peek into upcoming releases, blockbusters, and hidden gems. Whether you're a film enthusiast or simply looking for your next movie night pick, TrailerBuzz has you covered.

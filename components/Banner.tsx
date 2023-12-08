@@ -17,6 +17,7 @@ import { SpeakerWaveIcon } from '@heroicons/react/24/solid'
 import MuiModal from '@mui/material/Modal'
 import { Element, Genre } from '../typings'
 import dynamic from 'next/dynamic';
+import ReadMore from './readmore'
 
 interface Props {
   netflixOriginals: Movie[]

@@ -48,6 +48,44 @@ const Home = ({
       <Head>
         <title>Home - Trailerbuzz</title>
         <link rel="icon" href="/favicon.ico" />
+         {/* Open Graph Meta Tags for Sharing */}
+        <meta property="og:title" content="TrailerBuzz - Your Ultimate Destination for Movie Trailers" />
+        <meta property="og:description" content="Welcome to TrailerBuzz, your go-to source for the latest and most exciting movie trailers! Immerse yourself in the world of cinema and get a sneak peek into upcoming releases, blockbusters, and hidden gems. Whether you're a film enthusiast or simply looking for your next movie night pick, TrailerBuzz has you covered.
+
+Discover a curated collection of high-quality trailers spanning various genres, from action-packed adventures to heartwarming dramas and spine-chilling horrors. Our user-friendly interface makes it easy to explore and find trailers for movies you didn't even know you were waiting for.
+
+Stay in the loop with the hottest Hollywood releases, follow your favorite actors and directors, and get a taste of the cinematic magic before it hits the big screen. TrailerBuzz is where anticipation meets entertainment, providing you with an immersive experience that celebrates the art of storytelling through captivating trailers.
+
+Join our community of movie lovers, share your thoughts, and let the excitement begin. TrailerBuzz - Because every great movie starts with an unforgettable trailer.
+
+" />
+        <meta property="og:image" content="https://lavender-wrong-barracuda-449.mypinata.cloud/ipfs/Qmb78gzKM5QCViVzs1FTZdyEqJYiVwDhpBBChRYByGbimq?_gl=1*1o6dx70*_ga*MTExOTY5ODQ3OS4xNzAyMDE3OTk5*_ga_5RMPXG14TE*MTcwMjAxNzk5OC4xLjEuMTcwMjAxODEwNS4xNC4wLjA." />
+        <meta property="og:url" content="https://trailersbuzz-ramsais-projects.vercel.app/" />
+        <meta property="og:type" content="website" />
+
+        {/* Twitter Card Meta Tags (optional) */}
+        <meta name="twitter:card" content="Welcome to TrailerBuzz, your go-to source for the latest and most exciting movie trailers! Immerse yourself in the world of cinema and get a sneak peek into upcoming releases, blockbusters, and hidden gems. Whether you're a film enthusiast or simply looking for your next movie night pick, TrailerBuzz has you covered.
+
+Discover a curated collection of high-quality trailers spanning various genres, from action-packed adventures to heartwarming dramas and spine-chilling horrors. Our user-friendly interface makes it easy to explore and find trailers for movies you didn't even know you were waiting for.
+
+Stay in the loop with the hottest Hollywood releases, follow your favorite actors and directors, and get a taste of the cinematic magic before it hits the big screen. TrailerBuzz is where anticipation meets entertainment, providing you with an immersive experience that celebrates the art of storytelling through captivating trailers.
+
+Join our community of movie lovers, share your thoughts, and let the excitement begin. TrailerBuzz - Because every great movie starts with an unforgettable trailer.
+
+" />
+        <meta name="twitter:title" content="TrailerBuzz - Your Ultimate Destination for Movie Trailers" />
+        <meta name="twitter:description" content="Welcome to TrailerBuzz, your go-to source for the latest and most exciting movie trailers! Immerse yourself in the world of cinema and get a sneak peek into upcoming releases, blockbusters, and hidden gems. Whether you're a film enthusiast or simply looking for your next movie night pick, TrailerBuzz has you covered.
+
+Discover a curated collection of high-quality trailers spanning various genres, from action-packed adventures to heartwarming dramas and spine-chilling horrors. Our user-friendly interface makes it easy to explore and find trailers for movies you didn't even know you were waiting for.
+
+Stay in the loop with the hottest Hollywood releases, follow your favorite actors and directors, and get a taste of the cinematic magic before it hits the big screen. TrailerBuzz is where anticipation meets entertainment, providing you with an immersive experience that celebrates the art of storytelling through captivating trailers.
+
+Join our community of movie lovers, share your thoughts, and let the excitement begin. TrailerBuzz - Because every great movie starts with an unforgettable trailer.
+
+" />
+        <meta name="twitter:image" content="https://lavender-wrong-barracuda-449.mypinata.cloud/ipfs/Qmb78gzKM5QCViVzs1FTZdyEqJYiVwDhpBBChRYByGbimq?_gl=1*1o6dx70*_ga*MTExOTY5ODQ3OS4xNzAyMDE3OTk5*_ga_5RMPXG14TE*MTcwMjAxNzk5OC4xLjEuMTcwMjAxODEwNS4xNC4wLjA." />
+
+        {/* Other meta tags as needed */}
       </Head>
 
 

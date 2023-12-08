@@ -14,7 +14,7 @@ import { modalState, movieState } from '../atoms/modalAtom'
 import { Element, Genre } from '../typings'
 import Ads from './ads'
 import AdComponent from './a-ads'
-
+import AdComponent2 from './a-ads2'
 
 
 function Modal() {
@@ -139,6 +139,7 @@ function Modal() {
           </div>
         </div>
         <AdComponent />
+        <AdComponent2 />
       </>
     </MuiModal>
   )

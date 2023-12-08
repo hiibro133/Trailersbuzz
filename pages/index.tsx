@@ -59,7 +59,7 @@ Stay in the loop with the hottest Hollywood releases, follow your favorite actor
 Join our community of movie lovers, share your thoughts, and let the excitement begin. TrailerBuzz - Because every great movie starts with an unforgettable trailer.
 
 " />
-        <meta property="og:image" content="../public/netflix_logo2.png" />
+        <meta property="og:image" content="https://lavender-wrong-barracuda-449.mypinata.cloud/ipfs/QmZsBorfCjUF2vXTAgVMoeCrJsB7k9JQ3McEcH1DnpE6Tv?_gl=1*w0cfnu*_ga*MTExOTY5ODQ3OS4xNzAyMDE3OTk5*_ga_5RMPXG14TE*MTcwMjAxNzk5OC4xLjEuMTcwMjAxOTY1Ni42MC4wLjA." />
         <meta property="og:url" content="https://trailersbuzz-ramsais-projects.vercel.app/" />
         <meta property="og:type" content="website" />
 
@@ -83,7 +83,7 @@ Stay in the loop with the hottest Hollywood releases, follow your favorite actor
 Join our community of movie lovers, share your thoughts, and let the excitement begin. TrailerBuzz - Because every great movie starts with an unforgettable trailer.
 
 " />
-        <meta name="twitter:image" content="https://lavender-wrong-barracuda-449.mypinata.cloud/ipfs/Qmb78gzKM5QCViVzs1FTZdyEqJYiVwDhpBBChRYByGbimq?_gl=1*1o6dx70*_ga*MTExOTY5ODQ3OS4xNzAyMDE3OTk5*_ga_5RMPXG14TE*MTcwMjAxNzk5OC4xLjEuMTcwMjAxODEwNS4xNC4wLjA." />
+        <meta name="twitter:image" content="https://lavender-wrong-barracuda-449.mypinata.cloud/ipfs/QmZsBorfCjUF2vXTAgVMoeCrJsB7k9JQ3McEcH1DnpE6Tv?_gl=1*w0cfnu*_ga*MTExOTY5ODQ3OS4xNzAyMDE3OTk5*_ga_5RMPXG14TE*MTcwMjAxNzk5OC4xLjEuMTcwMjAxOTY1Ni42MC4wLjA." />
 
         {/* Other meta tags as needed */}
       </Head>

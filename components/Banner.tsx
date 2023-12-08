@@ -84,7 +84,7 @@ function Banner({ netflixOriginals }: Props) {
           objectFit="cover"
           alt="{movie?.title || movie?.name || movie?.original_name}"
         /> */}
-        <div className="pt-8"style={{ position: 'relative', paddingTop: '56.25%' /* 16:9 aspect ratio */ }}>
+        <div className="pt-8"style={{ position: 'relative', paddingTop: '49.25%' /* 16:9 aspect ratio */ }}>
         {trailer && (
          <DynamicReactPlayer
             url={`https://www.youtube.com/watch?v=${trailer}`}

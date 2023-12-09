@@ -12,6 +12,7 @@ import BannerAds from '../components/bannerAds'
 import MuiltAds from '../components/multixAds'
 import  AdComponent from '../components/a-ads'
 import AdComponent2 from '../components/a-ads2'
+import AdComponent3 from '../components/a-ads3'
 import BannerAdsa from '../components/BannerAds-a'
 
 
@@ -111,6 +112,9 @@ Join our community of movie lovers, share your thoughts, and let the excitement 
     </div>
     <div className="flex-shrink-0">
         <BannerAdsa />
+    </div>
+    <div className="flex-shrink-0">
+        <AdComponent3 />
     </div>
 </div>
 

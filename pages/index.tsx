@@ -106,7 +106,7 @@ Join our community of movie lovers, share your thoughts, and let the excitement 
           <Row title="Romance Movies" movies={romanceMovies} />
           <Row title="Documentaries" movies={documentaries} />
           <AdComponent2/>
-          <BannerAdsa/>
+    
       
         </section>
       </main>

@@ -2,7 +2,7 @@
 // AdComponent.js
 import React from 'react';
 
-const ads3 = () => (
+const AdComponent3 = () => (
   <iframe
     data-aa='2284229'
     src= '//ad.a-ads.com/2284229?size=120x60'
@@ -10,4 +10,4 @@ const ads3 = () => (
   ></iframe>
 );
 
-export default ads3;
+export default AdComponent3;

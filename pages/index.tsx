@@ -11,6 +11,7 @@ import { useEffect } from 'react'
 import BannerAds from '../components/bannerAds'
 import MuiltAds from '../components/multixAds'
 import  AdComponent from '../components/a-ads'
+import AdComponent2 from './a-ads2'
 
 
 
@@ -103,6 +104,7 @@ Join our community of movie lovers, share your thoughts, and let the excitement 
         
           <Row title="Romance Movies" movies={romanceMovies} />
           <Row title="Documentaries" movies={documentaries} />
+          <AdComponent2/>
       
         </section>
       </main>

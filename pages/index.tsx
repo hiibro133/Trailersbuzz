@@ -12,6 +12,7 @@ import BannerAds from '../components/bannerAds'
 import MuiltAds from '../components/multixAds'
 import  AdComponent from '../components/a-ads'
 import AdComponent2 from '../components/a-ads2'
+import BannerAdsa from '../components/BannerAds-a'
 
 
 
